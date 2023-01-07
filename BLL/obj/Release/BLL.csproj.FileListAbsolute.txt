@@ -1,0 +1,9 @@
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\BLL\bin\Release\BLL.dll
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\BLL\bin\Release\BLL.pdb
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\BLL\bin\Release\DAL.dll
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\BLL\bin\Release\MODEL.dll
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\BLL\bin\Release\DAL.pdb
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\BLL\bin\Release\MODEL.pdb
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\BLL\obj\Release\BLL.dll
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\BLL\obj\Release\BLL.pdb

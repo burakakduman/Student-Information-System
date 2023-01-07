@@ -1,0 +1,5 @@
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\DAL\bin\Release\DAL.dll
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\DAL\bin\Release\DAL.pdb
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\DAL\obj\Release\DAL.dll
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\DAL\obj\Release\DAL.pdb

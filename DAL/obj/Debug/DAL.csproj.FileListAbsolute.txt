@@ -1,0 +1,10 @@
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\DAL\bin\Debug\DAL.dll
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\DAL\bin\Debug\DAL.pdb
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\DAL\obj\Debug\DAL.dll
+C:\Users\Muhammed KARAKOYUN\Desktop\OBS\OBS\DAL\obj\Debug\DAL.pdb
+C:\Users\kazan myo\Desktop\OBS\OBS\DAL\bin\Debug\DAL.dll
+C:\Users\kazan myo\Desktop\OBS\OBS\DAL\bin\Debug\DAL.pdb
+C:\Users\kazan myo\Desktop\OBS\OBS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\kazan myo\Desktop\OBS\OBS\DAL\obj\Debug\DAL.dll
+C:\Users\kazan myo\Desktop\OBS\OBS\DAL\obj\Debug\DAL.pdb
